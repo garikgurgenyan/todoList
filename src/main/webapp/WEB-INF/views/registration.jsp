@@ -36,7 +36,7 @@
 		    </tr>
 	    
 			<tr>
-				<td><label for="deadLine">Крайний срок: </label> </td>
+				<td><label for="deadLine">Крайний срок:dd/MM/yyyy </label> </td>
 				<td><form:input path="deadLine" id="deadLine"/></td>
 				<td><form:errors path="deadLine" cssClass="error"/></td>
 		    </tr>
